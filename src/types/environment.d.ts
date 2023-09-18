@@ -4,6 +4,7 @@ declare global {
       // GITHUB_AUTH_TOKEN: string;
       NODE_ENV: 'development' | 'production';
       PORT?: string;
+      TINIFY_API_KEY: string;
       // PWD: string;
     }
   }
